@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.content {
+  max-height: 12px; /* Adjust the max height as needed */
+  max-width: 800px; /* Adjust the max width as needed */
+  margin: 0 auto; /* Center the container */
+  padding: 20px;
+}
