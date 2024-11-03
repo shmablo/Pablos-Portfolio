@@ -6,7 +6,6 @@ body {
 }
 
 .content {
-  max-height: 12px; /* Adjust the max height as needed */
   max-width: 800px; /* Adjust the max width as needed */
   margin: 0 auto; /* Center the container */
   padding: 20px;
